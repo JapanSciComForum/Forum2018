@@ -3,7 +3,7 @@
   elements:
     - {name: "ELSI", description: "Earth-Life Science Institute", link: "http://www.elsi.jp/en/", imageUrl: "elsilogo.png", text: "1", width: "800px", imagewidth: "200"}
 -
-  group: "With support of"
+  group: "With additional support from"
   elements:
     - {name: "EurekAlert!", description: "The global source for science news", link: "https://www.eurekalert.org/", imageUrl: "EurekAlertlogo.jpg", width: "180px", imagewidth: "180"}
     - {name: "RUC", description: "Research University Consortium", link: "http://www.ruconsortium.jp", imageUrl: "RUClogo.jpg", width: "340px", imagewidth: "340"}
